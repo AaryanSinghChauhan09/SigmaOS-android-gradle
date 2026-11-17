@@ -3,7 +3,7 @@ name = "SigmaOS-android-gradle"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "android-gradle component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
